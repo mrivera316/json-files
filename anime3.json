@@ -1,0 +1,26 @@
+[ 
+	{
+		"name": "Tengen Toppa Gurren Lagann",
+		"genre": "mecha",
+		"chars": {
+			"likes": ["Simon the Digger", "Viral"],
+			"dislikes": ["Thymilph", "Lordgenome"]
+		}
+	},
+	{
+		"name": "Ouran High School Host Club",
+		"genre": "shoujo",
+		"chars": {
+			"likes": ["Hitachiin Twins", "Umehito Nekozawa"],
+			"dislikes": ["Renge Houshakuji", "Ayanokoji"]
+		}
+	},
+	{
+		"name": "Sailor Moon",
+		"genre": "shoujo",
+		"chars": {
+			"likes": ["Sailor Jupiter: Makoto Kino", "Sailor Uranus: Haruka Tenoh"],
+			"dislikes": ["Professor Souichi Tomoe", "Queen Metaria"]
+		}
+	}
+]
