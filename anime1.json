@@ -1,0 +1,26 @@
+[ 
+	{
+		"name": "One Piece",
+		"genre": "shounen",
+		"chars": {
+			"likes": ["Nami", "Sanji"],
+			"dislikes": ["Admiral Sakazuki", "Marshal D. Teach"]
+		}
+	},
+	{
+		"name": "My Hero Academia",
+		"genre": "shounen",
+		"chars": {
+			"likes": ["No. 1 Hero All Might", "Katsuki Bakugou"],
+			"dislikes": ["Neito Monoma", "Tomura Shigaraki"]
+		}
+	},
+	{
+		"name": "Full Metal Alchemist: Brotherhood",
+		"genre": "shounen",
+		"chars": {
+			"likes": ["Col. Roy Mustang", "Greed"],
+			"dislikes": ["Van Hohenheim", "Shou Tucker"]
+		}
+	}
+]
