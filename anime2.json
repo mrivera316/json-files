@@ -1,0 +1,26 @@
+[ 
+	{
+		"name": "Attack on Titan",
+		"genre": "seinen",
+		"chars": {
+			"likes": ["Zoe Hange", "Jean Kirschtein"],
+			"dislikes": ["Bertholdt Hoover", "Rod Reiss"]
+		}
+	},
+	{
+		"name": "Death Note",
+		"genre": "seinen",
+		"chars": {
+			"likes": ["Death God Ryuk", "Near"],
+			"dislikes": ["Teru Mikami", "Misa Amane"]
+		}
+	},
+	{
+		"name": "Mobile Suit Gundam: Iron Blooded Orphans",
+		"genre": "mecha",
+		"chars": {
+			"likes": ["Biscuit Griffon", "Gaelio Baudin"],
+			"dislikes": ["Nobliss Gordon", "McGillis Fareed"]
+		}
+	}
+]
